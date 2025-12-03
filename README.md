@@ -182,7 +182,7 @@ baka.html
 <br>
 ![alt text](<Screenshot (26).png>)
 <br>
-![alt text](<Screenshot (22)-1.png>)
+![alt text](<Screenshot (25).png>)
 
 
 
