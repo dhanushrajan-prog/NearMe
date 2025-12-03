@@ -1,5 +1,7 @@
 # Ex03 Places Around Me
-## Date: 
+## Name:Dhanush Rajan.T
+## ref.no:25013743
+## Date: 03\12\2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -174,7 +176,7 @@ baka.html
 <br>
 ![alt text](<Screenshot (23).png>)
 <br>
-![alt text](<Screenshot (23)-1.png>)
+![alt text](<Screenshot (22).png>)
 <br>
 ![alt text](2025-12-03.png)
 <br>
